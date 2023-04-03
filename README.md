@@ -1,6 +1,6 @@
 <div align="right">
  
- <img align="right" alt="Coding" width="495" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034040/WelllitImpishErin-size_restricted.gif">
+ <img align="right" alt="Coding" width="400" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034040/WelllitImpishErin-size_restricted.gif">
  
  <div align="center">
     
