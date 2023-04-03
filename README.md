@@ -2,7 +2,7 @@
  
  <img align="right" alt="Coding" width="350" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034040/WelllitImpishErin-size_restricted.gif">
  
-<div align="left">
+<div align="center">
 
    [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
