@@ -4,7 +4,7 @@
  
  <div align="center">
     
-   [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,,nodejs,express,,mongodb,mysql)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
  </div>
 </div>
