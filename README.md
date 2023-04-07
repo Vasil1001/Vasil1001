@@ -1,4 +1,6 @@
 <div align="right">
+
+ <h1 align="left">Hi, I'm Vasilis! 👋</h1> 
  
  <img align="right" alt="Coding" width="350" src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/06/13034040/WelllitImpishErin-size_restricted.gif">
  
