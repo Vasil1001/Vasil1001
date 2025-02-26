@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="633" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="616" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">I build projects with React, Tailwind, and Vite and I am currently exploring NextJS. I also worked on backend with NodeJS, Express &amp; Spring Boot.</div>
+                        <div class="introduction">I build projects with Next.js, React and Tailwind.</div>
                     </section>
                 </div>
             </section>
@@ -84,13 +84,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.713028533279" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.713028533279" y="0" width="15.61249636560959" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.32552489888855" y="0" width="7.872349557765789" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.1978744566544" y="0" width="6.394718525385891" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="452.5925929820403" y="0" width="5.189549000194211" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.78214198223446" y="0" width="1.476238327176493" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.25838030941094" y="0" width="0.7416196905890193" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.7124192811835" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.7124192811835" y="0" width="15.613136856911096" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.3255561380946" y="0" width="7.872338211426451" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="446.19789434952105" y="0" width="6.394709308741504" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="452.59260365826253" y="0" width="5.189541520548708" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.7821451788112" y="0" width="1.4762361994888333" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.25838137830004" y="0" width="0.7416186216999148" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
