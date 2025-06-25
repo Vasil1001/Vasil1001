@@ -147,19 +147,19 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">algorithm</div>
+                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="">react</div>
-                            <div class="label" title="">aws</div>
+                            <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
                             <div class="label" title="">nodejs</div>
-                            <div class="label" title="">awesome</div>
+                            <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
                             <div class="label" title="">typescript</div>
                             <div class="label" title="">mongodb</div>
                             <div class="label" title="">hacktoberfest</div>
                             <div class="label" title="">webapp</div>
-                            <div class="label" title="">chatgpt</div>
+                            <div class="label" title="ChatGPT is a chatbot built on top of OpenAI&amp;apos;s GPT-3 family of large language models.">chatgpt</div>
                             <div class="label" title="">nextjs</div>
                             <div class="label" title="">programming</div>
-                            <div class="label" title="">chatgpt-api</div>
+                            <div class="label" title="ChatGPT API is a RESTful API that provides a simple interface to interact with OpenAI&amp;apos;s GPT-3 and GPT-Neo language models.">chatgpt api</div>
                             <div class="label" title="">interview-questions</div>
                             <div class="label" title="">community</div>
                             <div class="label" title="coding-interviews, supabase, midjourney, nextjs-starter">and 4 more...</div>
