@@ -150,8 +150,8 @@
                             <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
-                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
+                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="MongoDB is an open source NoSQL document-oriented database.">mongodb</div>
                             <div class="label" title="Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors.">hacktoberfest</div>
