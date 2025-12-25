@@ -84,13 +84,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.18284946007185" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.18284946007185" y="0" width="17.141481066143818" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.32433052621565" y="0" width="7.874559073184052" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.19888959939965" y="0" width="6.371210101187518" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="452.5700997005872" y="0" width="5.22019562676896" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.7902953273562" y="0" width="1.470811342911995" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.2611066702682" y="0" width="0.7388933297318493" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.18417701612674" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.18417701612674" y="0" width="17.140085189011" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.32426220513776" y="0" width="7.874583893564537" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="446.1988460987023" y="0" width="6.371230183055899" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="452.5700762817582" y="0" width="5.220212080673294" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.7902883624315" y="0" width="1.470815978866442" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.261104341298" y="0" width="0.7388956587020699" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
